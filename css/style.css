@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+
+.mijnachtergrond {
+			background-image:url('../img/achtergrond.png') !important;
+			background-repeat:no-repeat !important;
+			background-attachment:fixed;
+			background-position:right top !important;
+			background-size: cover !important;
+			background-color: #8dd2d1;
+			text-align:center;
+			
+		}
